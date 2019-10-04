@@ -5,3 +5,4 @@ fix-alfa-1.0.1 merge
 feature-D-1.1.0 second
 feature-A-2.0.0 first
 feature-B-2.0.0 first
+feature-C-2.1.0 first
