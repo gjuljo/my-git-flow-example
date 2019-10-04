@@ -8,3 +8,4 @@ feature-B-2.0.0 first
 feature-C-2.1.0 third
 fix-beta-1.1.1 merge
 feature-B-2.1.0 second
+fix-gamma-2.0.1 merge
