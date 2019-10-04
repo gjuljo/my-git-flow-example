@@ -1,2 +1,3 @@
 feature-A-1.0.0 third
 feature-B-1.1.0 first
+feature-C-1.1.0 first
