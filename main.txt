@@ -14,4 +14,5 @@ fix-beta-1.1.1 merge
 fix-delta-1.1.2 merge
 feature-D-2.1.0 second
 feature-A-2.2.0 third
+feature-B-2.2.0 second
 
