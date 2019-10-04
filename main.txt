@@ -4,3 +4,4 @@ feature-C-1.1.0 first
 fix-alfa-1.0.1 merge
 feature-D-1.1.0 second
 fix-beta-1.1.1 first
+fix-delta-1.1.2 first
