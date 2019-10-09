@@ -17,3 +17,5 @@ feature-A-2.2.0 third
 feature-B-2.2.0 third
 feature-C-2.2.0 third
 feature-D-2.2.0 second
+feature-A-2.3.0 third
+feature-B-2.3.0 second
